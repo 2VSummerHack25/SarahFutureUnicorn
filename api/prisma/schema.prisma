@@ -11,7 +11,32 @@ model User {
   id        String   @id @default(uuid()) @db.Uuid
   email     String   @unique
   name      String
+  role      String // jobe role/position
+  department String? 
+  level     String? 
   age       Int?
+
+  timezone String? // @pablonajera Would this data be easier to grab from 
+
+  // User preferences
+  interests   String[] // Array of interests
+  goals       String[] // career goals
+
+  // Social and networking preferences
+  lookingForMentorship Boolean @default(false)
+  openToMentoring      Boolean @default(false)
+  networkingGoals      String[] // "make friends", "build connections", "get advice"
+  
+  //relations
+  matches Match[] @relation("UserMatches") 
+
+  // RAG pipeline data
+  slack   Json?
+  outlook Json?
+  gcal    Json? 
+
+
+  //Metadata
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 }
