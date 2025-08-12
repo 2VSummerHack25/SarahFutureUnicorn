@@ -1,4 +1,6 @@
 import express from 'express';
+import prisma from '../tools/prisma.js';
+
 
 const router = express.Router();
 
@@ -14,9 +16,22 @@ router.get('/', async (request, response, next) => {
 
 router.get('/:id', async (request, response, next) => {
   try {
-    response.json({
-      message: `Get user by ID route is working for ID: ${request.params.id}`,
+    const { id } = request.params;
+    
+    const user = await prisma.user.findUnique({
+      where: { id },
     });
+
+    if (!user) {
+      return response.status(404).json({
+        error: {
+          name: 'UserNotFound',
+          message: `User with ID ${id} not found`,
+        },
+      });
+    }
+
+    response.json(user);
   } catch (error) {
     next(error);
   }
