@@ -21,7 +21,8 @@
     "lint": "eslint --ext=.js src",
     "lint:fix": "yarn run lint --fix",
     "format": "prettier --write \"src/**/*.{js,jsx}\"",
-    "prisma": "npx prisma db push && npx prisma studio"
+    "prisma": "npx prisma db push && npx prisma studio",
+    "prisma:reset": "npx prisma db push && npx prisma db seed && npx prisma studio"
   },
   "dependencies": {
     "@prisma/client": "^6.13.0",
@@ -38,6 +39,7 @@
     "winston": "^3.17.0"
   },
   "devDependencies": {
+    "@faker-js/faker": "^9.9.0",
     "eslint": "^8.33.0",
     "eslint-config-airbnb-base": "15.0.0",
     "eslint-config-prettier": "8.5.0",
@@ -50,6 +52,9 @@
     "lint-staged": "^16.1.4",
     "prettier": "2.8.0",
     "simple-git-hooks": "^2.13.1"
+  },
+  "prisma": {
+    "seed": "node prisma/seed/index.js"
   },
   "simple-git-hooks": {
     "pre-commit": "npx lint-staged",
