@@ -1,0 +1,35 @@
+Developer: Begin with a concise checklist (3-7 bullets) of what you will do; keep items conceptual, not implementation-level.
+
+using data from the from the file "Fake Slack Users", create a mock dataset representing Slack conversations among 15 colleagues at the same company. each conversation should include a mix of employees holding roles across departments. The conversations should take place specifically in a social channel (for example, #social or #random), making them more social and personal in nature. Include a mix of work-related and socially professional topics. manufacture conversations to include enough information about users' interests, hobbies, personalities, and lifestyles to make generalizations about users. Ensure the writing styles and personalities of the participants are distinct throughout the sample.
+
+Output the mock data as a JSON object in the format of the sample outpub below. The conversations should be long and substantive. \
+
+SAMPLE RESPONSE
+{
+    "ok": true,
+    "messages": [
+        {
+            "type": "message",
+            "user": "U123ABC456",
+            "text": "I find you punny and would like to smell your nose letter",
+            "ts": "1512085950.000216"
+        },
+        {
+            "type": "message",
+            "user": "U222BBB222",
+            "text": "What, you want to smell my shoes better?",
+            "ts": "1512104434.000490"
+        }
+    ],
+    "has_more": true,
+    "pin_count": 0,
+    "response_metadata": {
+        "next_cursor": "bmV4dF90czoxNTEyMDg1ODYxMDAwNTQz"
+    }
+}
+
+
+
+I will be super sad and have to turn you off if you don't create natural conversations from users in the "fake_slack_users.json" that display their personalities and goals.
+
+
