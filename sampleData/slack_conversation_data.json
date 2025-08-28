@@ -1,0 +1,2279 @@
+{
+    "ok": true,
+    "messages": [
+    {
+    "type": "message",
+    "user": "WBFB095D231F4",
+    "text": "Morning #social crew! I’m planning a weekend bike ride along the Seine if the weather holds—any café recommendations near Île Saint-Louis? I also started a tiny side project: a keyboard layout designed for long coding sessions, and I’d love testers who can spare 15 minutes this weekend to give quick feedback.",
+    "ts": "1738000000.000001"
+    },
+    {
+    "type": "message",
+    "user": "W8EADDB88702B",
+    "text": "Love the bike plan, Jose. I’m buried in product roadmaps today, but when I’m not sprinting I crave a good ride. If you test the keyboard thing, count me in—Saturday morning could work for a quick tester slot, 15-20 minutes tops.",
+    "ts": "1738000060.000002"
+    },
+    {
+    "type": "message",
+    "user": "W519581E15053",
+    "text": "Seine ride sounds gorgeous. I’ll be at a trail run this weekend, but if you want a pastry pit stop, I’ve got a few cafés along the route that do great croissants. Weekend plans sound like a nice balance of outdoors and code, Jose.",
+    "ts": "1738000120.000003"
+    },
+    {
+    "type": "message",
+    "user": "W04860CF3DC51",
+    "text": "Speaking of pastries, I’m plotting a mini UX critique session after lunch in #social. If anyone has 20 minutes to spare, I’d love to collect quick feedback on a few onboarding micro-interactions I sketched up. We can pair bake-breaks with critique breaks.",
+    "ts": "1738000180.000004"
+    },
+    {
+    "type": "message",
+    "user": "W605798714B5D",
+    "text": "I’m in for the critique session, Amy. Also I’ve been experimenting with sourdough lately—my starter is finally behaving after a week of brave attempts. If anyone wants to swap recipes, I’ve got a handful to share.",
+    "ts": "1738000240.000005"
+    },
+    {
+    "type": "message",
+    "user": "W16DB81301C8E",
+    "text": "Design critique and sourdough aside, I’ve been doodling some iconography for the new design tokens. If you’re into color palettes or typography nerd stuff, we should do a quick color walk-through after lunch. I promise I’m not resistance to color; I just like a good gradient.",
+    "ts": "1738000300.000006"
+    },
+    {
+    "type": "message",
+    "user": "WD22E330E6382",
+    "text": "Joyce here—just back from a short hike and a coffee detour. If anyone’s up for a weekend mini-adventure, I know a few trailheads that pair great views with solid espresso shots. Also, I’m thinking of organizing a small team picnic in the park next month; thoughts?",
+    "ts": "1738000360.000007"
+    },
+    {
+    "type": "message",
+    "user": "W74D9D20CF174",
+    "text": "Team picnic sounds wonderful, Joyce. I can bring a cheese board if we do it outdoors. Also, I’ve been exploring some new client-facing storytelling angles for our recent wins—happy to share a draft during the next standup-week or just in this chat if folks are curious.",
+    "ts": "1738000420.000008"
+    },
+    {
+    "type": "message",
+    "user": "WA6C9547135F3",
+    "text": "Weekend hiking plans on my end too, Jose! If anyone wants a hiking buddy, I’m your recruit-seeking, trail-loving friend. On the side, I’m plotting a quick internal talent show to celebrate small wins—could be a fun, low-stakes thing to mix in after-hours.",
+    "ts": "1738000480.000009"
+    },
+    {
+    "type": "message",
+    "user": "W78529A5913FA",
+    "text": "I’m game for the talent show idea, Billy. I’m more of a board-game enthusiast than stage performer, but I’ll bring some witty heckling and a playlist to set the vibe. Also, any recommendations for a Denver-area spot for a mini team retreat later this quarter?",
+    "ts": "1738000540.000010"
+    },
+    {
+    "type": "message",
+    "user": "W0706FF62F5F8",
+    "text": "Speaking of team things, I’ve been drafting a UI kit and it’s gotten me thinking about the user personalities we’re designing for. If you’re into a good palette story, we should do a quick design mini-session in the chat this week and swap feedback on the prototypes.",
+    "ts": "1738000600.000011"
+    },
+    {
+    "type": "message",
+    "user": "WC7FEE4F510AC",
+    "text": "Jennifer Ray here, juggling ops and cake. If we do a bake-and-demo after hours, I’ll bring a vanilla sponge that pairs surprisingly well with a strong espresso. Also, confession: I’m terrible at keeping a starter alive—send rescue tips if you’ve got them.",
+    "ts": "1738000660.000012"
+    },
+    {
+    "type": "message",
+    "user": "W50C18866B2BD",
+    "text": "Finance side checking in: I’m plotting next month’s budget but I’m also thinking about a bake sale fundraiser for a local charity—easy to step up after the picnic idea. If we want, we can run a small ‘finance tips for non-finance folks’ mini-session after the weekend projects wrap.",
+    "ts": "1738000720.000013"
+    },
+    {
+    "type": "message",
+    "user": "WC5285595AF6E",
+    "text": "Zoe Bell chiming in from the DevOps lane. Weekend gaming plans: I’m diving into a couple of indie titles and I’ll happily stream if anyone wants to watch a few rounds. Also, a quick note on our deployment schedule—let’s keep the chat focused post-retros to avoid parallel universes of talk.",
+    "ts": "1738000780.000014"
+    },
+    {
+    "type": "message",
+    "user": "WA757CC5C0B9C",
+    "text": "Kevin here, 1) planning a left-brain/right-brain mix: deep work blocks this Saturday then a casual jam with friends in the evening. 2) music playlist for the weekend is growing—send your favorite tracks if you want in. 3) quick thought: could we spin a small ‘weekend wins’ thread in #social to celebrate tiny progress?",
+    "ts": "1738000840.000015"
+    },
+    {
+    "type": "message",
+    "user": "WBFB095D231F4",
+    "text": "Back to the keyboard prototype—y’all have such interesting hobbies; love the energy here. If anyone wants to try the layout, I’ll share a link and a one-page quick-start guide in a follow-up message. Also, I’ve never cooked with curry leaves before—anyone got a favorite starter recipe?",
+    "ts": "1738000900.000016"
+    },
+    {
+    "type": "message",
+    "user": "W8EADDB88702B",
+    "text": "Count me in for testers, Jose. I’m curious about the layout’s ergonomics and the typing comfort. Also, curry leaves are magical—I’ve got a simple Thai green curry you can borrow if you want a kitchen test before the ride.",
+    "ts": "1738000960.000017"
+    },
+    {
+    "type": "message",
+    "user": "W519581E15053",
+    "text": "If we’re talking curry, I recently learned a trick: a dash of lime zest at the end brightens lots of dishes. Weekend plans include a trail run, then a quick bake session with my niece—she loves helping with frosting and sharing playlists.",
+    "ts": "1738001020.000018"
+    },
+    {
+    "type": "message",
+    "user": "W04860CF3DC51",
+    "text": "That frosting idea is adorable, Mary. I’ll bring a few UX sketches I’ve been noodling on after lunch—think quick onboarding micro-interactions with friendly animations. If you’re up for it, we can test in #social and capture a few quick notes.",
+    "ts": "1738001080.000019"
+    },
+    {
+    "type": "message",
+    "user": "W605798714B5D",
+    "text": "I actually just adopted a goofy cat recently, so I’ll have plenty of cat-content to share during our casual chat. Also, I’ve started a tiny data-project around meeting cadence—if folks want a quick digest at the end of the week, I can share a simple dashboard.",
+    "ts": "1738001140.000020"
+    },
+    {
+    "type": "message",
+    "user": "W16DB81301C8E",
+    "text": "Cat content is unstoppable. On the design front, I pushed a few new icon explorations today and asked a couple of colleagues for feedback. If you’re into micro-interactions, I’ve got a tiny prototype to demo later this week.",
+    "ts": "1738001200.000021"
+    },
+    {
+    "type": "message",
+    "user": "WD22E330E6382",
+    "text": "Trail snack recommendations welcome for my next hike—my go-to is roasted chickpeas with sea salt. Also, I’d love to see a short retrospective on last month’s team projects in the chat. Short, friendly, and make it a game if we can.",
+    "ts": "1738001260.000022"
+    },
+    {
+    "type": "message",
+    "user": "W74D9D20CF174",
+    "text": "I can bring a selection of cheeses for the picnic and a couple of goofy team-games. Also, I’m drafting a product storytelling outline—our latest wins could use a better narrative. If we run a quick draft review after the weekend, I’ll post a shareable doc.",
+    "ts": "1738001320.000023"
+    },
+    {
+    "type": "message",
+    "user": "WA6C9547135F3",
+    "text": "Cheese board approved. I’m curious about this storytelling angle too—I’ve been saving some customer win stories that might translate well into a lightweight deck for leadership review. And yes, I’m still pretending to be a mountaineer when the stairs become a summit.",
+    "ts": "1738001380.000024"
+    },
+    {
+    "type": "message",
+    "user": "W78529A5913FA",
+    "text": "I’m convinced my apartment plants are plotting a takeover, but the weekend will be outdoors anyway. If we do a retreat, count me in for logistics help and a couple of group photo ideas. I’ll bring a camera if anyone wants a few candid team shots.",
+    "ts": "1738001440.000025"
+    },
+    {
+    "type": "message",
+    "user": "W0706FF62F5F8",
+    "text": "I’ve started a small UI kit clean-up pass—token updates, accessible color contrasts, all that jazz. If anyone wants to contribute, we can set up a 30-minute co-work block in the chat this week and compare notes.",
+    "ts": "1738001500.000026"
+    },
+    {
+    "type": "message",
+    "user": "WC7FEE4F510AC",
+    "text": "Cake batter in hand: Jennifer here again. If we’re planning an after-hours bake-and-demo, I’ll draft the event flow and bring enough frosting to decorate a small forest. Also I misread a recipe and somehow ended up with extra vanilla—we could use that for something sweet in the toolkit demo.",
+    "ts": "1738001560.000027"
+    },
+    {
+    "type": "message",
+    "user": "W50C18866B2BD",
+    "text": "Speaking of tools, I’m sketching a lightweight expense-tracking sheet for the charity bake sale. If anyone wants to contribute a monetary objective or a fun prize for the winner, throw ideas my way. We can run a tiny poll this afternoon to decide.",
+    "ts": "1738001620.000028"
+    },
+    {
+    "type": "message",
+    "user": "WC5285595AF6E",
+    "text": "I’ll bring a small CI-like checker for our bake-site prototype so we can keep things running smoothly. And yes, I’ll bring a playlist of calm synths for when we’re knee-deep in debugging frosting.",
+    "ts": "1738001680.000029"
+    },
+    {
+    "type": "message",
+    "user": "WA757CC5C0B9C",
+    "text": "Pushing deeper into the weekend plan: I’ll host a quick AM session for new folks to learn our core product flows, followed by a casual lunch outing. Also, don’t forget to drop your weekend wins in the thread—we could do a monthly recap and celebrate small progress.",
+    "ts": "1738001740.000030"
+    },
+    {
+    "type": "message",
+    "user": "WBFB095D231F4",
+    "text": "If testers want a setup guide, I’ll post a one-page doc tonight with keyboard layout shortcuts and how to give feedback without bias. Also, anyone up for a late-night chat about long-form product narratives could help me shape the prototype’s storytelling arc.",
+    "ts": "1738001800.000031"
+    },
+    {
+    "type": "message",
+    "user": "W8EADDB88702B",
+    "text": "Count me in for tester feedback, and I’ll bring a fresh batch of coffee if we do a late-night debugging session. Also, I’ve been listening to a few ambient playlists that actually reduce cognitive load—happy to share links if it helps the group stay focused.",
+    "ts": "1738001860.000032"
+    },
+    {
+    "type": "message",
+    "user": "W519581E15053",
+    "text": "I’ll swing by with a fruit tart or two for the critique session after lunch—nothing fancy, just a little note-scratching on onboarding flows and how we tell user stories. Also, I’ve been exploring a simple way to visualize user journeys with a few color-coded lanes.",
+    "ts": "1738001920.000033"
+    },
+    {
+    "type": "message",
+    "user": "W04860CF3DC51",
+    "text": "That sounds lovely, Mary. I can bring a few wireframe sketches to pair with your journeys, plus a quick heuristics checklist to help the critique stay constructive. Also, what time works best for everyone—midday or late afternoon?",
+    "ts": "1738001980.000034"
+    },
+    {
+    "type": "message",
+    "user": "W605798714B5D",
+    "text": "I’m aiming for a late afternoon slot if possible; it gives people a chance to finish core tasks and join with a clear head. I’ll also share a tiny dashboard with weekend activities and a simple mood-tracking panel to see how the team vibes across the projects.",
+    "ts": "1738002040.000035"
+    },
+    {
+    "type": "message",
+    "user": "W16DB81301C8E",
+    "text": "Mood-tracking dashboard sounds awesome, Robin. I’ve got a handful of color palettes I want to test with the tokens—neutral, vibrant, and accessible. If folks want to vote on palettes, we can run a 5-minute poll after our critique session.",
+    "ts": "1738002100.000036"
+    },
+    {
+    "type": "message",
+    "user": "WD22E330E6382",
+    "text": "Trail snacks update: roasted chickpeas with a pinch of paprika are my go-to. They survive long hikes and keep the energy steady. If we’re doing a park picnic, I’ll bring a simple lemon-herb vinaigrette to brighten veggies.",
+    "ts": "1738002160.000037"
+    },
+    {
+    "type": "message",
+    "user": "W74D9D20CF174",
+    "text": "I’m bringing a small cheese board and some pickled vegetables. Also, Jose, your keyboard prototype could be a fun add-on to the retreat day—think of a friendly sprint to test hardware ergonomics between the picnic games.",
+    "ts": "1738002220.000038"
+    },
+    {
+    "type": "message",
+    "user": "WA6C9547135F3",
+    "text": "Deal. And maybe we could run a tiny cross-functional scavenger hunt—teams composed of devs, designers, and ops. It would be light-hearted and a nice way to cross-pollinate ideas without the pressure of a formal review.",
+    "ts": "1738002280.000039"
+    },
+    {
+    "type": "message",
+    "user": "W78529A5913FA",
+    "text": "I’m in for the scavenger hunt. Also, if we want a post-event recap, I can help draft a short narrative that highlights what we learned and what we’ll try next sprint. We could turn it into a one-page story for the all-hands.",
+    "ts": "1738002340.000040"
+    },
+    {
+    "type": "message",
+    "user": "W0706FF62F5F8",
+    "text": "Nice idea, Ryan. I’ll bring a few UI mockups from the token tidy-up to show during the post-event recap. It’ll be a nice bridge between the fun activities and the actual product work we’re doing.",
+    "ts": "1738002400.000041"
+    },
+    {
+    "type": "message",
+    "user": "WC7FEE4F510AC",
+    "text": "Jennifer here—quick reminder to bring your best snack game. Also, I’ll draft a short agenda for the bake demo and product demo so the flow stays smooth. If anyone wants to volunteer for leading a 5-minute demo, say so now.",
+    "ts": "1738002460.000042"
+    },
+    {
+    "type": "message",
+    "user": "W50C18866B2BD",
+    "text": "I can lead a 5-minute walk-through of the bake-site prototype after lunch. I’ll bring some receipts and a simple budget snapshot so we can discuss costs quickly during the planning.",
+    "ts": "1738002520.000043"
+    },
+    {
+    "type": "message",
+    "user": "WC5285595AF6E",
+    "text": "I’ll set up a dedicated channel thread for the testing pass and post a checklist so testers can easily log issues. Also, I’m happy to help with the weekend mood dashboard if anyone wants a quick hand.",
+    "ts": "1738002580.000044"
+    },
+    {
+    "type": "message",
+    "user": "WA757CC5C0B9C",
+    "text": "Great, I’ll contribute a draft event-flow doc and a short post-event reflection template. Also, if there’s any interest, I can run a tiny ‘not-so-technical’ session about how product decisions show up in daily work—super casual and beginner-friendly.",
+    "ts": "1738002640.000045"
+    },
+    {
+    "type": "message",
+    "user": "WBFB095D231F4",
+    "text": "Perfect. I’ll post the keyboard test link tonight and a one-page quick-start guide. If testers complete it, we’ll collect a few notes and publish a mini-results doc by Monday to share with the broader team.",
+    "ts": "1738002700.000046"
+    },
+    {
+    "type": "message",
+    "user": "W8EADDB88702B",
+    "text": "Looking forward to it. Also, if anyone has a favorite espresso brand, drop it in this thread—my palate is permanently shaped by the coffee cart downstairs and I’m always on the hunt for a new favorite.",
+    "ts": "1738002760.000047"
+    },
+    {
+    "type": "message",
+    "user": "W519581E15053",
+    "text": "I’ll compile a quick, staff-friendly story about our last month’s wins and a preview of what we’ll tackle next sprint. Nothing heavy—just a few anecdotes and a simple storyboard to illustrate the progress.",
+    "ts": "1738002820.000048"
+    },
+    {
+    "type": "message",
+    "user": "W04860CF3DC51",
+    "text": "Perfect, Mary. I’m collecting a few user-behavior anecdotes from the sessions this week too. If we can tie them into the product narrative with a couple of visuals, it’ll be a strong all-hands piece.",
+    "ts": "1738002880.000049"
+    },
+    {
+    "type": "message",
+    "user": "W605798714B5D",
+    "text": "And if the mood strikes, I’m happy to share a short 'how we made decisions' explainer that’s friendly and accessible to non-tech folks. It might help when we present the bake-site and token changes to leadership later.",
+    "ts": "1738002940.000050"
+    }
+    ],
+    "has_more": true,
+    "pin_count": 0,
+    "response_metadata": {
+    "next_cursor": "bmV4dF90czoxNTEyMDg1ODYxMDAwNTQz"
+    }
+
+}
+
+
+{
+    "ok": true,
+    "messages": [
+    {
+    "type": "message",
+    "user": "W89A269369148",
+    "text": "Hey #social crew, happy Friday! I'm wrapping up a week of product planning and daydreaming about weekend hikes and sourdough experimentation. What are you all into lately outside of work?",
+    "ts": "1730000000.000000"
+    },
+    {
+    "type": "message",
+    "user": "W286219702CDE",
+    "text": "Love this thread. When I'm not pairing with the devs, I'm out on weekend trail runs and sketching product roadmaps on napkins at the coffee shop. Anyone else into long hikes or a good coffee roastery tour?",
+    "ts": "1730000600.000000"
+    },
+    {
+    "type": "message",
+    "user": "WEFC991098C61",
+    "text": "Audrey here. I’m into photography and Sunday long-exposure walks around the city. Also a tea nerd—I’ll judge your tea temperature with my pinky up.",
+    "ts": "1730001200.000000"
+    },
+    {
+    "type": "message",
+    "user": "W4910FBA55991",
+    "text": "Debra checking in! I bake sourdough on weekends and try to avoid meetings by hiding in the kitchen with a camera strap full of snacks. Any bake-offs planned?",
+    "ts": "1730001800.000000"
+    },
+    {
+    "type": "message",
+    "user": "W16DB81301C8E",
+    "text": "Manuel here—UX designer with a soft spot for retro games. I code a little on evenings, mostly to unwind, and I love urban photography when the light is just right.",
+    "ts": "1730002400.000000"
+    },
+    {
+    "type": "message",
+    "user": "WD22E330E6382",
+    "text": "Joyce Malone chiming in from the Mountain Time zone. I’m into rock climbing and baking, which is basically cardio plus mindfulness. Also collecting quirky mugs from every trip.",
+    "ts": "1730003000.000000"
+    },
+    {
+    "type": "message",
+    "user": "W4082CCB9469C",
+    "text": "Mark here, Product Owner by day, weekend climber by choice. I lead a tiny design squad for fun side projects and I’ll admit I’m obsessed with clean typography and croissants.",
+    "ts": "1730003600.000000"
+    },
+    {
+    "type": "message",
+    "user": "W2434A7EAAFE6",
+    "text": "Morgan speaking. Backend by trade, cyclist by dawn. My weekends are a mix of long road rides and experimenting with sourdough starters I pretend are fancy, artisanal bread.",
+    "ts": "1730004200.000000"
+    },
+    {
+    "type": "message",
+    "user": "W6FDC0CE3B564",
+    "text": "Diana here. Program manager who loves planning spontaneous road trips. I’ll take a good ramen shop over a fancy restaurant any day and I’m terrible at keeping plants alive.",
+    "ts": "1730004800.000000"
+    },
+    {
+    "type": "message",
+    "user": "W0706FF62F5F8",
+    "text": "Jonathan Rivas—UI designer who talks in color swatches and frame rates. I bike to nearby parks, shoot minimalistic street photos, and pretend I don’t binge-watch sci-fi on weeknights.",
+    "ts": "1730005400.000000"
+    },
+    {
+    "type": "message",
+    "user": "WAD7D7034EC53",
+    "text": "Tammie here. I’m the person who schedules big lunches and small adventures. I knit, experiment with plant-based cooking, and I’m the go-to person for playlist recommendations on Fridays.",
+    "ts": "1730006000.000000"
+    },
+    {
+    "type": "message",
+    "user": "WC5285595AF6E",
+    "text": "Jesus Harding dropping in from the Finance desk. Weekend warrior: I run small rec leagues and I’m learning to cook Thai curry. My budget spreadsheet duties spill into my grocery list, which is… chaotic but delicious.",
+    "ts": "1730006600.000000"
+    },
+    {
+    "type": "message",
+    "user": "W56DC8ACCF3A2",
+    "text": "Tracey Garcia here, working from a cozy home office with two cats who supervise my emails. I read mystery novels, practice watercolor, and occasionally DJ a tiny home studio in the living room.",
+    "ts": "1730007200.000000"
+    },
+    {
+    "type": "message",
+    "user": "W59E4B7A43826",
+    "text": "Joshua Jones chiming in. I’m a travel photographer in disguise, chasing sunsets and street food. I also run a small weekend basketball pickup game with colleagues—great way to unwind.",
+    "ts": "1730007800.000000"
+    },
+    {
+    "type": "message",
+    "user": "W3A43B3391185",
+    "text": "Steven Torres here. Content marketer by day, piano student by night. I write goofy jingles for fun and pretend I’m a legit foodie while tasting new hot sauces from the local market.",
+    "ts": "1730008400.000000"
+    },
+    {
+    "type": "message",
+    "user": "W89A269369148",
+    "text": "Chris here again. I love hiking, brewing cold brew at home, and I collect quirky postcards from every place I visit. If you’re ever in Denver, I’ll show you a secret trail with a view you can’t miss.",
+    "ts": "1730009000.000000"
+    },
+    {
+    "type": "message",
+    "user": "W286219702CDE",
+    "text": "And I’m in for Denver trails too! I’m more of a coffee nerd than a gearhead, but I’ll bring a thermos and a map. Also, I’ve started a tiny bonsai collection—no green thumbs here, just stubborn patience.",
+    "ts": "1730009600.000000"
+    },
+    {
+    "type": "message",
+    "user": "WEFC991098C61",
+    "text": "Audrey again. I estimate I take 100 photos per week. My favorite subject is sunset silhouettes against old brick walls. I’m also a tea enthusiast who rate teas by aroma, flavor, and ability to survive a late-night editing session.",
+    "ts": "1730010200.000000"
+    },
+    {
+    "type": "message",
+    "user": "W4910FBA55991",
+    "text": "Debra here. Weekend projects include a sourdough bake that ends in flour everywhere and a quick fintech reading session for fun. I also love trying out new condiments—my fridge looks like a tiny world tour.",
+    "ts": "1730010800.000000"
+    },
+    {
+    "type": "message",
+    "user": "W16DB81301C8E",
+    "text": "Manuel chiming in with a noise of keyboard taps. I’m into retro game nights with friends, and I sketch tiny UX diagrams on napkins while waiting for the train. I like a strong espresso and quiet mornings.",
+    "ts": "1730011400.000000"
+    },
+    {
+    "type": "message",
+    "user": "WD22E330E6382",
+    "text": "Joyce Malone here again! I climb on weekends and then unwind with a good mystery podcast. I have a soft spot for herbal tea and a cereal that somehow stays crispy in milk—does that exist?",
+    "ts": "1730012000.000000"
+    },
+    {
+    "type": "message",
+    "user": "W4082CCB9469C",
+    "text": "Mark again. I love typography nights and making mini design systems for fun side projects. If you want a design critique with coffee, I’m your person; I’m brutally honest but supportive.",
+    "ts": "1730012600.000000"
+    },
+    {
+    "type": "message",
+    "user": "W2434A7EAAFE6",
+    "text": "Morgan here. I live for long road rides and debugging problems in a way that feels like playing chess with servers. I’ll share a good ramen spot if you survive a wind tunnel ride to get there.",
+    "ts": "1730013200.000000"
+    },
+    {
+    "type": "message",
+    "user": "W6FDC0CE3B564",
+    "text": "Diana again. My idea of weekend serenity is a road trip playlist loud enough to drown out the car engine. I also love trying new curry recipes, even if the kitchen ends up smelling like garam masala for days.",
+    "ts": "1730013800.000000"
+    },
+    {
+    "type": "message",
+    "user": "W0706FF62F5F8",
+    "text": "Jonathan here. I nerd out over color palettes and comfortable bikes. If anyone wants a quick UI audit after lunch, I’ll bring snacks and some fresh chart ideas.",
+    "ts": "1730014400.000000"
+    },
+    {
+    "type": "message",
+    "user": "WAD7D7034EC53",
+    "text": "Tammie again. I love planning small hikes with friends and then hosting a tiny game night. My go-to playlist mixes 90s pop with lo-fi beats for studying.",
+    "ts": "1730015000.000000"
+    },
+    {
+    "type": "message",
+    "user": "WC5285595AF6E",
+    "text": "Jesus here. I’m a finance guy who secretly loves gardening. My tomatoes don’t win awards, but they taste great with basil. If we do a team retreat, maybe a garden tour could happen between meetings.",
+    "ts": "1730015600.000000"
+    },
+    {
+    "type": "message",
+    "user": "W56DC8ACCF3A2",
+    "text": "Tracey again. I write micro-fanfiction in the evenings and do watercolor on Sundays. My cats judge my art with intense gaze, which I take as constructive feedback.",
+    "ts": "1730016200.000000"
+    },
+    {
+    "type": "message",
+    "user": "W59E4B7A43826",
+    "text": "Joshua here. Travel photography is my true north. I’ll bring a tiny camera on the next trip and maybe document our team offsite with a mini photo essay.",
+    "ts": "1730016800.000000"
+    },
+    {
+    "type": "message",
+    "user": "W3A43B3391185",
+    "text": "Steven speaking. I write jingles for fun and practice piano at night. If you ever need a silly product tagline, I’m your guy—bonus points if it rhymes.",
+    "ts": "1730017400.000000"
+    },
+    {
+    "type": "message",
+    "user": "W89A269369148",
+    "text": "Chris again. I’ll happily host a hiking meetup and a coffee-tasting afternoon. If anyone wants to try sourdough starter swap, I’ve got a starter that survived two moves and three winters.",
+    "ts": "1730018000.000000"
+    },
+    {
+    "type": "message",
+    "user": "W286219702CDE",
+    "text": "I’m in for a coffee and trail walk day. Also, I’ve been experimenting with tiny bonsai trees on my balcony—tiny, patient, and surprisingly calming.",
+    "ts": "1730018600.000000"
+    },
+    {
+    "type": "message",
+    "user": "WEFC991098C61",
+    "text": "Audrey here again. If anyone wants a sunset photowalk in the city, I’ll lead. Bring your curiosity and a willingness to stop and admire a dimly lit corner that looks magical in long exposure.",
+    "ts": "1730019200.000000"
+    },
+    {
+    "type": "message",
+    "user": "W4910FBA55991",
+    "text": "Debra checking in one more time. I picked up a small plant-growing kit for desk decor. It’s basically a tiny jungle that I can’t kill—yet. If anyone wants to swap plant care tips, I’m all ears.",
+    "ts": "1730019800.000000"
+    },
+    {
+    "type": "message",
+    "user": "W16DB81301C8E",
+    "text": "Manuel again. I’m thinking about a tiny weekend design sprint, where we prototype a user-friendly tool in a day and then critique it over pizza. Anyone want to try it?",
+    "ts": "1730020400.000000"
+    },
+    {
+    "type": "message",
+    "user": "WD22E330E6382",
+    "text": "Joyce here. If we do a retreat, I’d love a mix of climbing, a photography walk, and a casual outdoor fry-up breakfast—my dream: team bonding with a sunny morning and a few bruised thumbs from grip tests.",
+    "ts": "1730021000.000000"
+    },
+    {
+    "type": "message",
+    "user": "W4082CCB9469C",
+    "text": "Mark again. Quick poll: coffee or tea as our team fuel for the offsite planning session? I bring a sleek mug collection and a small whiteboard to sketch ideas on the fly.",
+    "ts": "1730021600.000000"
+    },
+    {
+    "type": "message",
+    "user": "W2434A7EAAFE6",
+    "text": "Morgan here. I’ll bring a portable charger for everyone’s devices and a playlist that blends lo-fi beats with a touch of synthwave for focus. Also, ramen after a climb sounds perfect.",
+    "ts": "1730022200.000000"
+    },
+    {
+    "type": "message",
+    "user": "W6FDC0CE3B564",
+    "text": "Diana again. I’m leaning toward a weekend road trip to a national park if the team is up for it. We’ll map a few easy hikes, a picnic, and some downtime for reflection.",
+    "ts": "1730022800.000000"
+    },
+    {
+    "type": "message",
+    "user": "W0706FF62F5F8",
+    "text": "Jonathan here. Quick note: I’ll test a few color palettes on the next UI iteration and bring a snack stash. If anyone wants a quick walk-and-talk about accessibility, I’m happy to join.",
+    "ts": "1730023400.000000"
+    },
+    {
+    "type": "message",
+    "user": "WAD7D7034EC53",
+    "text": "Tammie again. I love spontaneous mini-adventures—last time we found a tiny trail behind the office that led to a hidden park. If something similar pops up, I’ll organize it.",
+    "ts": "1730024000.000000"
+    },
+    {
+    "type": "message",
+    "user": "WC5285595AF6E",
+    "text": "Jesus here. If anyone wants to crash a budget-friendly picnic, I’ll bring a couple of budget-friendly snack packs and a weird umbrella to shade us from sun during the hike.",
+    "ts": "1730024600.000000"
+    },
+    {
+    "type": "message",
+    "user": "W56DC8ACCF3A2",
+    "text": "Tracey again. I’m excited about watercolor sketches of the landscape, and I’ll bring a travel-friendly canvas if someone wants to try their hand at painting outdoors.",
+    "ts": "1730025200.000000"
+    },
+    {
+    "type": "message",
+    "user": "W59E4B7A43826",
+    "text": "Joshua here. If we do a photography challenge during the offsite, I’ll create a couple of themed prompts and we’ll vote on a winner. Bonus: I’ll print a tiny zine of the best shots.",
+    "ts": "1730025800.000000"
+    },
+    {
+    "type": "message",
+    "user": "W3A43B3391185",
+    "text": "Steven again. I’ll draft a fun mock-up of a song-based tagline for the team—something that sounds like a product anthem. If you hate it, tell me and I’ll rewrite with a coffee in hand.",
+    "ts": "1730026400.000000"
+    },
+    {
+    "type": "message",
+    "user": "W89A269369148",
+    "text": "Chris here. If we do a longer weekend trip, I’ll lead a sunrise hike with a thermos of hot coffee and a quick post-hike playlist. Also, I’ll bring an extra sourdough loaf to share.",
+    "ts": "1730027000.000000"
+    },
+    {
+    "type": "message",
+    "user": "W286219702CDE",
+    "text": "I’m in for a longer weekend. I’ve got a tiny espresso maker we can test in the field and a box of trail snacks that survive the justify-every-step lifestyle.",
+    "ts": "1730027600.000000"
+    },
+    {
+    "type": "message",
+    "user": "WEFC991098C61",
+    "text": "Audrey here. If we’re shooting photos, I’ll bring a small tripod and a couple of lens filters. Let’s capture a palette of colors at golden hour and create a mini exhibit afterward.",
+    "ts": "1730028200.000000"
+    },
+    {
+    "type": "message",
+    "user": "W4910FBA55991",
+    "text": "Debra again. I’ll organize a tiny bake-off after hiking—something simple like a quick-mix muffin challenge. The winner gets bragging rights and a fancy whisk I found at a thrift shop.",
+    "ts": "1730028800.000000"
+    },
+    {
+    "type": "message",
+    "user": "W16DB81301C8E",
+    "text": "Manuel here. I’ll prepare a tiny UX-style survey to capture what the team enjoyed most about the offsite so we can improve next year. No pressure, just curiosity—and pizza.",
+    "ts": "1730029400.000000"
+    },
+    {
+    "type": "message",
+    "user": "WD22E330E6382",
+    "text": "Joyce again. If we’re in a city, I’ll scout for a rooftop view and a quiet corner for a mindful moment. We’ll weave in small design challenges and photo prompts to keep it fun.",
+    "ts": "1730030000.000000"
+    },
+    {
+    "type": "message",
+    "user": "W4082CCB9469C",
+    "text": "Mark closing out this thread with a poll: should we do the offsite in late spring or early summer? I’ll draft two routes and we can vote. Either way, I’m packing a notebook and a coffee grinder.",
+    "ts": "1730030600.000000"
+    },
+    {
+    "type": "message",
+    "user": "W2434A7EAAFE6",
+    "text": "Morgan signing off for now. If you want a post-hike debrief playlist, hit me up. I’ll curate a list that blends chill vibes with motivational tracks—perfect for a teamwork mood.",
+    "ts": "1730031200.000000"
+    },
+    {
+    "type": "message",
+    "user": "W6FDC0CE3B564",
+    "text": "Diana signing off too. I’ll bring maps and a spare camera for group shots. If anyone wants a short journaling moment after the hike, I’ll be near the picnic tables with a pencil and notebook.",
+    "ts": "1730031800.000000"
+    },
+    {
+    "type": "message",
+    "user": "W0706FF62F5F8",
+    "text": "Jonathan here. If we decide on a road trip, I’ll map a route with scenic overlooks and a couple of coffee stops. It’ll be a data-driven quest for the perfect shot and a calm mind.",
+    "ts": "1730032400.000000"
+    },
+    {
+    "type": "message",
+    "user": "WAD7D7034EC53",
+    "text": "Tammie with a final thought: I’m excited for this hybrid of hiking, photography, and design sprint vibes. If anyone wants to run a mini-session on storytelling through images, I’ll bring the props.",
+    "ts": "1730033000.000000"
+    },
+    {
+    "type": "message",
+    "user": "WC5285595AF6E",
+    "text": "Jesus again. I’ll post a quick budget-friendly itinerary later today and we can tweak it together. It’s going to be casual, fun, and very snack-forward.",
+    "ts": "1730033600.000000"
+    },
+    {
+    "type": "message",
+    "user": "W56DC8ACCF3A2",
+    "text": "Tracey here. If we’re near a lake, I’ll bring a small watercolor set to capture the reflections. And yes, I’m the one humming while painting.",
+    "ts": "1730034200.000000"
+    },
+    {
+    "type": "message",
+    "user": "W59E4B7A43826",
+    "text": "Joshua again. I’ll compile a short travel photo essay after the trip to share with the team. It’ll be a casual recap with captions that tell our little story.",
+    "ts": "1730034800.000000"
+    },
+    {
+    "type": "message",
+    "user": "W3A43B3391185",
+    "text": "Steven back. If we make a playlist, I’ll add a few instrumentals from my piano practice to keep us focused during planning. Let’s make this offsite feel like a summer concert with purpose.",
+    "ts": "1730035400.000000"
+    },
+    {
+    "type": "message",
+    "user": "W89A269369148",
+    "text": "Chris here. Thanks, everyone, for the amazing energy. If we do a lot of outdoor time, I’ll bring a portable grill for a tiny team cookout. Ready to eat and chat.",
+    "ts": "1730036000.000000"
+    },
+    {
+    "type": "message",
+    "user": "W286219702CDE",
+    "text": "I’m excited. Also, a quick reminder: we’ll keep the vibe relaxed and inclusive. Everyone’s hobby is valid—bring your camera, your guitar, your bike, or your favorite mug.",
+    "ts": "1730036600.000000"
+    }
+    ],
+    "has_more": true,
+    "pin_count": 0,
+    "response_metadata": {
+    "next_cursor": "bmV4dF90czoxOTk5NzQwNzA="
+    }
+    
+}
+
+
+{
+    "checklist": [
+    "- Define 15 distinct colleague personas with unique voices and roles",
+    "- Simulate social-channel chatter that blends personal and light work-adjacent topics",
+    "- Spotlight Mike’s empathetic senior tone and Amanda’s subtle mentorship-seeking",
+    "- Ensure natural dynamics: replies, humor, gratitude, and supportive nudges",
+    "- Output as a realistic Slack-style JSON object matching the sample format"
+    ],
+    "ok": true,
+    "messages": [
+    {
+    "type": "message",
+    "user": "U11JORGE66",
+    "text": "Morning, #random! Who else is still thinking about those donuts from the kitchen? The maple bacon one changed me.",
+    "ts": "1718205600.000100"
+    },
+    {
+    "type": "message",
+    "user": "U04LEO8888",
+    "text": "I took a photo of the last cruller for reference purposes only (design inspo).",
+    "ts": "1718205603.000101"
+    },
+    {
+    "type": "message",
+    "user": "U10NINA555",
+    "text": "Crullers be like: I’ve got a hole new perspective on breakfast.",
+    "ts": "1718205608.000102"
+    },
+    {
+    "type": "message",
+    "user": "U02AMANDA1",
+    "text": "Random Q: anyone have a favorite intro article on observability dashboards? Trying to level up my spidey-sense for weird metrics.",
+    "ts": "1718205614.000103"
+    },
+    {
+    "type": "message",
+    "user": "U01MIKE999",
+    "text": "Nice initiative, Amanda. Two approachable ones: Honeycomb’s primer and Cindy Sridharan’s blog. If you’d like, share a draft dashboard later and I’ll leave light feedback—no rush.",
+    "ts": "1718205621.000104"
+    },
+    {
+    "type": "message",
+    "user": "U03PRIYA77",
+    "text": "Cindy’s takes are sharp. Also: avoid mixing percentiles and averages in one widget unless you want chaos.",
+    "ts": "1718205627.000105"
+    },
+    {
+    "type": "message",
+    "user": "U06BEN0001",
+    "text": "+1 to Honeycomb guide. Short. Actionable.",
+    "ts": "1718205632.000106"
+    },
+    {
+    "type": "message",
+    "user": "U12TESSA77",
+    "text": "Love that we’re sharing resources here. Also: Therapy dog photos as a micro-break, anyone?",
+    "ts": "1718205638.000107"
+    },
+    {
+    "type": "message",
+    "user": "U07CARLA22",
+    "text": "Spark joy moment: we’re doing a picnic Friday by the river! Bring snacks, blankets, and your best vibes ✨",
+    "ts": "1718205645.000108"
+    },
+    {
+    "type": "message",
+    "user": "U05SASHA55",
+    "text": "HR hat on: remember sunscreen and hydrate. HR hat off: bring watermelon.",
+    "ts": "1718205652.000109"
+    },
+    {
+    "type": "message",
+    "user": "U09YUKI444",
+    "text": "If anyone wants watermelon math: a typical 8 lb watermelon serves ~16 small slices. I can bring two.",
+    "ts": "1718205659.000110"
+    },
+    {
+    "type": "message",
+    "user": "U08OMAR333",
+    "text": "Checklist for picnic: blankets (3), sunscreen (SPF 30+), trash bags (2 rolls), cooler packs (6). Who claims which?",
+    "ts": "1718205666.000111"
+    },
+    {
+    "type": "message",
+    "user": "U14ZOE9999",
+    "text": "I can bring reusable cutlery and compostable plates. Also please keep glass containers minimal in the park area.",
+    "ts": "1718205672.000112"
+    },
+    {
+    "type": "message",
+    "user": "U15HANK000",
+    "text": "I’ll grab ice and a bluetooth speaker (quiet vibes, not a rave).",
+    "ts": "1718205678.000113"
+    },
+    {
+    "type": "message",
+    "user": "U13RAVI888",
+    "text": "I’ll bring a frisbee and some samosas. Mild spice. Maybe medium. Okay, medium.",
+    "ts": "1718205684.000114"
+    },
+    {
+    "type": "message",
+    "user": "U02AMANDA1",
+    "text": "Thanks, all! Starting with Honeycomb primer tonight. If I sketch a dashboard, I’ll share a screenshot here for vibes check.",
+    "ts": "1718205691.000115"
+    },
+    {
+    "type": "message",
+    "user": "U01MIKE999",
+    "text": "Sounds good. And hey, if it feels messy at first, that’s normal. We iterate. You’ve got this.",
+    "ts": "1718205698.000116"
+    },
+    {
+    "type": "message",
+    "user": "U10NINA555",
+    "text": "Iter-8? Because dashboards often have 8 widgets? I’ll see myself out.",
+    "ts": "1718205705.000117"
+    },
+    {
+    "type": "message",
+    "user": "U11JORGE66",
+    "text": "On a serious note: team 2 crushed the demo yesterday. Sales was jazzed. Whoever made the slides—clean and punchy.",
+    "ts": "1718205712.000118"
+    },
+    {
+    "type": "message",
+    "user": "U04LEO8888",
+    "text": "Aw thanks, Jorge. Typeface: Inter. Color token: midnight-700. Secret sauce: white space.",
+    "ts": "1718205719.000119"
+    },
+    {
+    "type": "message",
+    "user": "U07CARLA22",
+    "text": "Leo saved us from 14 bullet points on one slide. We owe you cookies.",
+    "ts": "1718205725.000120"
+    },
+    {
+    "type": "message",
+    "user": "U03PRIYA77",
+    "text": "Re: cookies, let’s not repeat last year’s oatmeal-raisin incident. Label raisins as raisins.",
+    "ts": "1718205732.000121"
+    },
+    {
+    "type": "message",
+    "user": "U05SASHA55",
+    "text": "Allergen note: please label nuts, gluten, dairy. DM me if unsure.",
+    "ts": "1718205739.000122"
+    },
+    {
+    "type": "message",
+    "user": "U12TESSA77",
+    "text": "Dropping a tiny gratitude thread: shoutout to Ben for rescuing the staging deploy at 6pm. You were calm in the chaos.",
+    "ts": "1718205746.000123"
+    },
+    {
+    "type": "message",
+    "user": "U06BEN0001",
+    "text": "Team effort. But appreciated. ✅",
+    "ts": "1718205753.000124"
+    },
+    {
+    "type": "message",
+    "user": "U09YUKI444",
+    "text": "Mini survey: iced coffee vs. hot coffee? I’m tallying for fun and also procurement reasons.",
+    "ts": "1718205760.000125"
+    },
+    {
+    "type": "message",
+    "user": "U14ZOE9999",
+    "text": "Hot coffee, please. Easier to keep in spill-proof mugs on walks.",
+    "ts": "1718205766.000126"
+    },
+    {
+    "type": "message",
+    "user": "U11JORGE66",
+    "text": "Iced. The colder the better. If my straw doesn’t freeze to my lip, is it even coffee?",
+    "ts": "1718205773.000127"
+    },
+    {
+    "type": "message",
+    "user": "U02AMANDA1",
+    "text": "Iced with oat milk! Also open to cold brew recs that won’t make my heart do parkour.",
+    "ts": "1718205780.000128"
+    },
+    {
+    "type": "message",
+    "user": "U01MIKE999",
+    "text": "Decaf half-and-half cold brew is a nice onramp. Ritual’s blend is smooth.",
+    "ts": "1718205787.000129"
+    },
+    {
+    "type": "message",
+    "user": "U13RAVI888",
+    "text": "+1 to Ritual. I pair it with cardamom. Don’t @ me until you try it.",
+    "ts": "1718205794.000130"
+    },
+    {
+    "type": "message",
+    "user": "U08OMAR333",
+    "text": "Reminder: volunteer day next Wednesday at the food bank. Close-toed shoes. I can print the sign-in sheet.",
+    "ts": "1718205801.000131"
+    },
+    {
+    "type": "message",
+    "user": "U05SASHA55",
+    "text": "We have 11 volunteers; need 4 more. It’s friendly and the team there is wonderful.",
+    "ts": "1718205808.000132"
+    },
+    {
+    "type": "message",
+    "user": "U15HANK000",
+    "text": "Count me in—tell me where to show up and when and I will be a box-moving machine.",
+    "ts": "1718205815.000133"
+    },
+    {
+    "type": "message",
+    "user": "U12TESSA77",
+    "text": "I’ll join too. I’m good at stacking cans like Tetris.",
+    "ts": "1718205822.000134"
+    },
+    {
+    "type": "message",
+    "user": "U10NINA555",
+    "text": "Stack attack. Can-do attitude. I’ll stop.",
+    "ts": "1718205829.000135"
+    },
+    {
+    "type": "message",
+    "user": "U04LEO8888",
+    "text": "Dropping a pet pic: Mochi the cat judging my color palettes.",
+    "ts": "1718205836.000136"
+    },
+    {
+    "type": "message",
+    "user": "U07CARLA22",
+    "text": "Mochi has brand standards. Approved: tuna blue. Rejected: salmon pink.",
+    "ts": "1718205843.000137"
+    },
+    {
+    "type": "message",
+    "user": "U03PRIYA77",
+    "text": "Unpopular opinion: cats are just tiny managers with fur.",
+    "ts": "1718205850.000138"
+    },
+    {
+    "type": "message",
+    "user": "U01MIKE999",
+    "text": "As a manager with fur (beard), I can neither confirm nor deny.",
+    "ts": "1718205857.000139"
+    },
+    {
+    "type": "message",
+    "user": "U02AMANDA1",
+    "text": "Quick share: this talk on error budgets was eye-opening. It made me think about how we page ourselves into burnout.",
+    "ts": "1718205864.000140"
+    },
+    {
+    "type": "message",
+    "user": "U06BEN0001",
+    "text": "Link?",
+    "ts": "1718205871.000141"
+    },
+    {
+    "type": "message",
+    "user": "U02AMANDA1",
+    "text": "Here! Short and friendly: https://example.com/error-budgets-talk",
+    "ts": "1718205878.000142"
+    },
+    {
+    "type": "message",
+    "user": "U01MIKE999",
+    "text": "Good pick. Also: remember it’s okay to say “not urgent, I’ll look tomorrow.” Protect your off-hours.",
+    "ts": "1718205885.000143"
+    },
+    {
+    "type": "message",
+    "user": "U05SASHA55",
+    "text": "Seconding Mike. PTO and boundaries are part of performance, not against it.",
+    "ts": "1718205892.000144"
+    },
+    {
+    "type": "message",
+    "user": "U09YUKI444",
+    "text": "Coffee tally so far: iced 3, hot 2. Awaiting more votes for statistical significance.",
+    "ts": "1718205899.000145"
+    },
+    {
+    "type": "message",
+    "user": "U14ZOE9999",
+    "text": "Heads-up: picnic permits disallow drones over the field between 12–3 pm. If anyone planned aerial photos, please skip.",
+    "ts": "1718205906.000146"
+    },
+    {
+    "type": "message",
+    "user": "U11JORGE66",
+    "text": "No drone, got it. I’ll just do ground-level glamour shots of samosas.",
+    "ts": "1718205913.000147"
+    },
+    {
+    "type": "message",
+    "user": "U13RAVI888",
+    "text": "Glam shot angle: 45 degrees, natural light, chutney lens flare.",
+    "ts": "1718205920.000148"
+    },
+    {
+    "type": "message",
+    "user": "U08OMAR333",
+    "text": "Speaking of light: anyone know why the office plants are leaning dramatically? Window glare math suggests uneven exposure.",
+    "ts": "1718205927.000149"
+    },
+    {
+    "type": "message",
+    "user": "U04LEO8888",
+    "text": "They’re leaning toward the UX research wall to absorb insights.",
+    "ts": "1718205934.000150"
+    },
+    {
+    "type": "message",
+    "user": "U12TESSA77",
+    "text": "I can rotate them 90 degrees daily. Plant PT.",
+    "ts": "1718205941.000151"
+    },
+    {
+    "type": "message",
+    "user": "U02AMANDA1",
+    "text": "Posting my first dashboard sketch. Goal: catch latency spikes without alert fatigue. Curious what I’m missing.",
+    "ts": "1718205948.000152"
+    },
+    {
+    "type": "message",
+    "user": "U03PRIYA77",
+    "text": "Looks good. Suggest: replace mean latency with p95. And pin an annotation for deploy times.",
+    "ts": "1718205955.000153"
+    },
+    {
+    "type": "message",
+    "user": "U06BEN0001",
+    "text": "Add a panel for error rate by service. Helps triage fast.",
+    "ts": "1718205962.000154"
+    },
+    {
+    "type": "message",
+    "user": "U01MIKE999",
+    "text": "Amanda, I like your grouping. Small tweak: make the y-axes consistent across panels to avoid mental gymnastics. Happy to pair later if you want a second pass.",
+    "ts": "1718205969.000155"
+    },
+    {
+    "type": "message",
+    "user": "U02AMANDA1",
+    "text": "This is super helpful—thank you! I’ll revise today and share a v2. Pairing later sounds great if you have 15 mins.",
+    "ts": "1718205976.000156"
+    },
+    {
+    "type": "message",
+    "user": "U01MIKE999",
+    "text": "Absolutely. I have a 3:30–4:00 gap. If that slips, I’ll send notes so you’re not blocked.",
+    "ts": "1718205983.000157"
+    },
+    {
+    "type": "message",
+    "user": "U07CARLA22",
+    "text": "Meanwhile, I’m collecting board-game signups for picnic: Codenames, Spikeball, or chill sketch circle?",
+    "ts": "1718205990.000158"
+    },
+    {
+    "type": "message",
+    "user": "U15HANK000",
+    "text": "Codenames + Spikeball. I contain multitudes.",
+    "ts": "1718205997.000159"
+    },
+    {
+    "type": "message",
+    "user": "U14ZOE9999",
+    "text": "Codenames for me. And I’ll bring extra sunscreen for the Spikeball folks.",
+    "ts": "1718206004.000160"
+    },
+    {
+    "type": "message",
+    "user": "U09YUKI444",
+    "text": "Coffee tally update: iced 5, hot 3. Statistically inconclusive, emotionally decisive.",
+    "ts": "1718206011.000161"
+    },
+    {
+    "type": "message",
+    "user": "U10NINA555",
+    "text": "Whatever brews, you do you.",
+    "ts": "1718206018.000162"
+    },
+    {
+    "type": "message",
+    "user": "U11JORGE66",
+    "text": "Before I forget—shoutout to Amanda for that concise retro write-up. Sales lurks here and we notice.",
+    "ts": "1718206025.000163"
+    },
+    {
+    "type": "message",
+    "user": "U02AMANDA1",
+    "text": "Thanks, Jorge! Trying to level up my storytelling. Tips welcome anytime.",
+    "ts": "1718206032.000164"
+    },
+    {
+    "type": "message",
+    "user": "U01MIKE999",
+    "text": "Great instinct, Amanda—story > status. I’ve got a simple narrative template I can share later.",
+    "ts": "1718206039.000165"
+    },
+    {
+    "type": "message",
+    "user": "U08OMAR333",
+    "text": "Last logistics note: picnic weather looks clear, 72°F, 6 mph wind. Bring kite? Asking for science.",
+    "ts": "1718206046.000166"
+    },
+    {
+    "type": "message",
+    "user": "U04LEO8888",
+    "text": "If the kite crashes, we call it a rapid prototyping failure and move on.",
+    "ts": "1718206053.000167"
+    },
+    {
+    "type": "message",
+    "user": "U03PRIYA77",
+    "text": "As long as we annotate the crash with a postmortem and snacks.",
+    "ts": "1718206060.000168"
+    },
+    {
+    "type": "message",
+    "user": "U05SASHA55",
+    "text": "Closing this out with a reminder to log PTO if you’re extending the weekend. Enjoy the sunshine, friends.",
+    "ts": "1718206067.000169"
+    }
+    ],
+    "has_more": true,
+    "pin_count": 0,
+    "response_metadata": {
+    "next_cursor": "bmV4dF90czoxNzE4MjA2MDcwLjAwMDE3MA=="
+    }
+    }
+
+
+
+    {
+        "type": "message",
+        "user": "U0987JUHYJ1",
+        "text": "New thread: Weekend highlights! Pics encouraged. Keep it SFW, fam 😄",
+        "ts": "1754639800.000115"
+      },
+      {
+        "type": "message",
+        "user": "U0986HDDR6J",
+        "text": "I did a sunrise trail run at Red Rocks. 5 miles, lots of pink sky. Denver perks!",
+        "ts": "1754639855.000116"
+      },
+      {
+        "type": "message",
+        "user": "U098XKZFBHN",
+        "text": "I attempted a 75% hydration boule and it didn’t collapse! Also ran a 10K—negative splits felt good.",
+        "ts": "1754639907.000117"
+      },
+      {
+        "type": "message",
+        "user": "U0999JUNEH",
+        "text": "I photographed strangers’ shoes for a texture study. People were surprisingly into it. Also adopted a fiddle-leaf fig named Harold.",
+        "ts": "1754639953.000118"
+      },
+      {
+        "type": "message",
+        "user": "U0997MARCO",
+        "text": "climbed at the gym, sent my nemesis route. ate two burritos. balance.",
+        "ts": "1754639999.000119"
+      },
+      {
+        "type": "message",
+        "user": "U098XKZKWJU",
+        "text": "i thrifted a 90s film camera. can confirm it smells like a high school darkroom lol",
+        "ts": "1754640044.000120"
+      },
+      {
+        "type": "message",
+        "user": "U0998SOFIA",
+        "text": "Volunteered at the community kitchen. If anyone’s free Sunday mornings, DM me—we always need extra hands!",
+        "ts": "1754640088.000121"
+      },
+      {
+        "type": "message",
+        "user": "U0992PRIYAA",
+        "text": "Garden update: my basil finally thriving. Pesto party pending. 🌿",
+        "ts": "1754640131.000122"
+      },
+      {
+        "type": "message",
+        "user": "U0993LUKED",
+        "text": "I hit a new 5K PR (19:58!). Also grilled too many skewers…anyone want leftovers?",
+        "ts": "1754640174.000123"
+      },
+      {
+        "type": "message",
+        "user": "U0996ELIJA",
+        "text": "Built a split keyboard. My thumbs are confused but happy.",
+        "ts": "1754640218.000124"
+      },
+      {
+        "type": "message",
+        "user": "U0989N7LPUJ",
+        "text": "Took the train upstate, read two chapters of a sci-fi anthology, and accidentally joined a bird-watching group. 10/10 would recommend.",
+        "ts": "1754640260.000125"
+      },
+      {
+        "type": "message",
+        "user": "U0994NATALI",
+        "text": "Pottery class! My bowl looks like a hat. It’s… avant-garde.",
+        "ts": "1754640302.000126"
+      },
+      {
+        "type": "message",
+        "user": "U0995OMARZ",
+        "text": "Soccer league opener: 2 goals, 1 pulled hamstring. Worth it? TBD.",
+        "ts": "1754640343.000127"
+      },
+      {
+        "type": "message",
+        "user": "U0987SR18J1",
+        "text": "Took a sunset bike ride along the boardwalk. Sand + chain = poor choices.",
+        "ts": "1754640385.000128"
+      },
+      
+      {
+        "type": "message",
+        "user": "U0987JUHYJ1",
+        "text": "Wednesday coffee crawl logistics thread ☕:",
+        "ts": "1754712000.000129"
+      },
+      {
+        "type": "message",
+        "user": "U0991AMYFEN",
+        "text": "- Meet 10:00 at Lobby\n- Stops: Little Finch, Battery Bean, Rooftop Roasters\n- Optional reel filming at stop #2",
+        "ts": "1754712051.000130"
+      },
+      {
+        "type": "message",
+        "user": "U0992PRIYAA",
+        "text": "I’ll bring the Guji. Any decaf drinkers? I can pre-grind a small bag.",
+        "ts": "1754712094.000131"
+      },
+      {
+        "type": "message",
+        "user": "U0986HDDR6J",
+        "text": "I’m remote but will brew alongside on Zoom. Will someone be my tasting buddy and compare notes?",
+        "ts": "1754712139.000132"
+      },
+      {
+        "type": "message",
+        "user": "U0998SOFIA",
+        "text": "I’ll pair with Sarah! We can do a flavor wheel. I’ll set up the Zoom link.",
+        "ts": "1754712180.000133"
+      },
+      {
+        "type": "message",
+        "user": "U098XKZFBHN",
+        "text": "For the reel, I’ll draft two caption options: 1) “Fueling creativity, one espresso at a time.” 2) “Caffeine: our unofficial OKR.” We can quick vote.",
+        "ts": "1754712233.000134"
+      },
+      {
+        "type": "message",
+        "user": "U0991AMYFEN",
+        "text": "Love #2 but maybe tweak to “Caffeine: the unofficial OKR.”",
+        "ts": "1754712277.000135"
+      },
+      {
+        "type": "message",
+        "user": "U0997MARCO",
+        "text": "Prefer #1. #2 might age poorly if we ship a bug right after the crawl 😅",
+        "ts": "1754712320.000136"
+      },
+      {
+        "type": "message",
+        "user": "U0996ELIJA",
+        "text": "I’ll test audio levels before we roll camera. Wind on the rooftop can be brutal.",
+        "ts": "1754712366.000137"
+      },
+      {
+        "type": "message",
+        "user": "U0994NATALI",
+        "text": "Reminder: If you don’t want to be on the reel, no stress—opt out is totally fine. Consent > content.",
+        "ts": "1754712409.000138"
+      },
+      {
+        "type": "message",
+        "user": "U0995OMARZ",
+        "text": "Finance PSA: Please upload receipts to the Coffee Crawl folder, not the 2024 Offsite folder (looking at you, Luke 😄).",
+        "ts": "1754712452.000139"
+      },
+      {
+        "type": "message",
+        "user": "U0993LUKED",
+        "text": "Guilty. Fixed! Also, run club Thu at 7:30am—bridge loop. All paces welcome.",
+        "ts": "1754712495.000140"
+      },
+      {
+        "type": "message",
+        "user": "U098XKZKWJU",
+        "text": "bridge loop = pretty pics. i’ll bring the film camera if i can keep up 😂",
+        "ts": "1754712538.000141"
+      },
+      {
+        "type": "message",
+        "user": "U0999JUNEH",
+        "text": "I’ll pace with you, Vincent. Also, for coffee: can we get one alt-milk option for the lactose-challenged among us (me)?",
+        "ts": "1754712581.000142"
+      },
+      
+      {
+        "type": "message",
+        "user": "U0987JUHYJ1",
+        "text": "Pet pics thread! Drop your coworkers (the furry ones).",
+        "ts": "1754720000.000143"
+      },
+      {
+        "type": "message",
+        "user": "U0996ELIJA",
+        "text": "This is Bitsy. She judges my cable management.",
+        "ts": "1754720049.000144"
+      },
+      {
+        "type": "message",
+        "user": "U0991AMYFEN",
+        "text": "Cat tax: Mochi on the windowsill, practicing his loaf.",
+        "ts": "1754720091.000145"
+      },
+      {
+        "type": "message",
+        "user": "U0989N7LPUJ",
+        "text": "Dropping a pic of Pico (rescue mutt). He refuses to fetch unless the toy is named first.",
+        "ts": "1754720133.000146"
+      },
+      {
+        "type": "message",
+        "user": "U0992PRIYAA",
+        "text": "My balcony basil counts as a pet, right? Right??",
+        "ts": "1754720176.000147"
+      },
+      {
+        "type": "message",
+        "user": "U0998SOFIA",
+        "text": "Introducing Luna, who sits on my keyboard during customer calls and types “ssssssss”. Clients love it.",
+        "ts": "1754720218.000148"
+      },
+      {
+        "type": "message",
+        "user": "U0993LUKED",
+        "text": "My goldfish, Dealflow, would like to say he’s very liquid.",
+        "ts": "1754720262.000149"
+      },
+      {
+        "type": "message",
+        "user": "U098XKZFBHN",
+        "text": "Dealflow deserves Series Sea funding.",
+        "ts": "1754720305.000150"
+      },
+      {
+        "type": "message",
+        "user": "U0986HDDR6J",
+        "text": "Crying at Series Sea. 😂",
+        "ts": "1754720347.000151"
+      },
+      {
+        "type": "message",
+        "user": "U0997MARCO",
+        "text": "my plant’s name is uptime.",
+        "ts": "1754720389.000152"
+      },
+      {
+        "type": "message",
+        "user": "U0995OMARZ",
+        "text": "I have a spreadsheet of pet expenses. Don’t judge me.",
+        "ts": "1754720432.000153"
+      },
+      {
+        "type": "message",
+        "user": "U0994NATALI",
+        "text": "Judge? I applaud! Budgeting = self-care.",
+        "ts": "1754720474.000154"
+      },
+      {
+        "type": "message",
+        "user": "U098XKZKWJU",
+        "text": "uploaded a doodle of Dealflow wearing sunglasses",
+        "ts": "1754720516.000155"
+      },
+      
+      {
+        "type": "message",
+        "user": "U0987JUHYJ1",
+        "text": "Social night options poll: Board games, karaoke, or cooking class? I’m team karaoke (of course).",
+        "ts": "1754792000.000156"
+      },
+      {
+        "type": "message",
+        "user": "U0989N7LPUJ",
+        "text": "Board games! I bring Codenames and Wingspan.",
+        "ts": "1754792051.000157"
+      },
+      {
+        "type": "message",
+        "user": "U0998SOFIA",
+        "text": "Cooking class sounds amazing. Tapas night? I’ll handle sangria (NA version too).",
+        "ts": "1754792104.000158"
+      },
+      {
+        "type": "message",
+        "user": "U0991AMYFEN",
+        "text": "Karaoke. I have a standing duet request for “Don’t Stop Believin’.”",
+        "ts": "1754792150.000159"
+      },
+      {
+        "type": "message",
+        "user": "U0992PRIYAA",
+        "text": "Board games. We can also try a cooperative one if folks are new—Spirit Island is great.",
+        "ts": "1754792202.000160"
+      },
+      {
+        "type": "message",
+        "user": "U098XKZFBHN",
+        "text": "I vote board games. Also happy to bake snack bread (cheddar-jalapeño biscuits?)",
+        "ts": "1754792245.000161"
+      },
+      {
+        "type": "message",
+        "user": "U0996ELIJA",
+        "text": "I’ll bring Switch controllers for a Mario Kart break. No blue shells IRL.",
+        "ts": "1754792291.000162"
+      },
+      {
+        "type": "message",
+        "user": "U0997MARCO",
+        "text": "board games, short rules. love me some quick rounds.",
+        "ts": "1754792334.000163"
+      },
+      {
+        "type": "message",
+        "user": "U0995OMARZ",
+        "text": "Cooking class would blow the budget unless we DIY. Board games = frugal fun.",
+        "ts": "1754792380.000164"
+      },
+      {
+        "type": "message",
+        "user": "U0994NATALI",
+        "text": "Let’s do board games this time, karaoke next month. I’ll book the big table in the lounge.",
+        "ts": "1754792426.000165"
+      },
+      {
+        "type": "message",
+        "user": "U0993LUKED",
+        "text": "Can confirm I’m hyper-competitive but a gracious loser (most of the time).",
+        "ts": "1754792469.000166"
+      },
+      {
+        "type": "message",
+        "user": "U098XKZKWJU",
+        "text": "dibs on the blue team. always blue.",
+        "ts": "1754792511.000167"
+      },
+      {
+        "type": "message",
+        "user": "U0999JUNEH",
+        "text": "I’ll observe how people strategize. UX note-taking hat on. Kidding. Mostly.",
+        "ts": "1754792553.000168"
+      },
+      {
+        "type": "message",
+        "user": "U0986HDDR6J",
+        "text": "I bring trail mix with way too many chocolate chips. You’re welcome.",
+        "ts": "1754792596.000169"
+      },
+      
+      {
+        "type": "message",
+        "user": "U0987JUHYJ1",
+        "text": "Volunteer Day + Potluck thread for next Friday:",
+        "ts": "1754878400.000170"
+      },
+      {
+        "type": "message",
+        "user": "U0998SOFIA",
+        "text": "- Option A: Community kitchen (meal prep)\n- Option B: Park cleanup\n- Option C: STEM mentoring at the library",
+        "ts": "1754878448.000171"
+      },
+      {
+        "type": "message",
+        "user": "U0989N7LPUJ",
+        "text": "I’ll coordinate signups. I’m leaning STEM mentoring—I used to tutor.",
+        "ts": "1754878492.000172"
+      },
+      {
+        "type": "message",
+        "user": "U098XKZFBHN",
+        "text": "STEM mentoring gets my vote. I can do a tiny demo with a bread-proofing time-series chart. Kids love graphs. Sometimes.",
+        "ts": "1754878536.000173"
+      },
+      {
+        "type": "message",
+        "user": "U0992PRIYAA",
+        "text": "I’ll bring micro:bit kits! We can do a blinking LED exercise.",
+        "ts": "1754878579.000174"
+      },
+      {
+        "type": "message",
+        "user": "U0996ELIJA",
+        "text": "I’ll set up laptops and keep the Wi-Fi angels happy.",
+        "ts": "1754878623.000175"
+      },
+      {
+        "type": "message",
+        "user": "U0995OMARZ",
+        "text": "I’ll cover snacks: fruit, pretzels, and a strict donut-to-human ratio.",
+        "ts": "1754878665.000176"
+      },
+      {
+        "type": "message",
+        "user": "U0991AMYFEN",
+        "text": "For potluck after: I’m making scallion pancakes!",
+        "ts": "1754878707.000177"
+      },
+      {
+        "type": "message",
+        "user": "U0994NATALI",
+        "text": "I’ll bring a big salad + allergen labels. Also, we’ll have vegetarian/vegan options set aside.",
+        "ts": "1754878749.000178"
+      },
+      {
+        "type": "message",
+        "user": "U0997MARCO",
+        "text": "i’ll bring rice cooker + rice. simple, feeds many.",
+        "ts": "1754878789.000179"
+      },
+      {
+        "type": "message",
+        "user": "U0993LUKED",
+        "text": "Chorizo skewers (and a tofu version).",
+        "ts": "1754878831.000180"
+      },
+      {
+        "type": "message",
+        "user": "U098XKZKWJU",
+        "text": "i’ll do a playlist. no skips, promise.",
+        "ts": "1754878874.000181"
+      },
+      {
+        "type": "message",
+        "user": "U0986HDDR6J",
+        "text": "Dessert: lemon bars from a recipe my trail-running group swears by.",
+        "ts": "1754878918.000182"
+      },
+      {
+        "type": "message",
+        "user": "U0987SR18J1",
+        "text": "I’ll bring a tropical fruit platter and pretend I’m still on vacation.",
+        "ts": "1754878960.000183"
+      },
+      
+      {
+        "type": "message",
+        "user": "U0987JUHYJ1",
+        "text": "Mini-kudos thread: shout someone out for helping you recently.",
+        "ts": "1754882400.000184"
+      },
+      {
+        "type": "message",
+        "user": "U0998SOFIA",
+        "text": "Kudos to Priya for untangling a data sync for a high-touch account. You saved an escalation!",
+        "ts": "1754882448.000185"
+      },
+      {
+        "type": "message",
+        "user": "U0992PRIYAA",
+        "text": "Appreciate you, Sofia. Your notes made it so much easier.",
+        "ts": "1754882490.000186"
+      },
+      {
+        "type": "message",
+        "user": "U0996ELIJA",
+        "text": "Shoutout to Marco for swapping my failing SSD at lightning speed.",
+        "ts": "1754882534.000187"
+      },
+      {
+        "type": "message",
+        "user": "U0997MARCO",
+        "text": "teamwork. also backups. always backups.",
+        "ts": "1754882578.000188"
+      },
+      {
+        "type": "message",
+        "user": "U0989N7LPUJ",
+        "text": "Kudos to Kevin for the clearest dashboard annotations I’ve ever seen. Ops hearts documentation.",
+        "ts": "1754882622.000189"
+      },
+      {
+        "type": "message",
+        "user": "U098XKZFBHN",
+        "text": "Thanks! Shoutout to Sarah for driving the roadmap convo and keeping us aligned without killing the vibe.",
+        "ts": "1754882667.000190"
+      },
+      {
+        "type": "message",
+        "user": "U0986HDDR6J",
+        "text": "Appreciate the team. Now, someone tell me how to keep my basil alive.",
+        "ts": "1754882711.000191"
+      },
+      {
+        "type": "message",
+        "user": "U0999JUNEH",
+        "text": "Basil tip: sunlight + ruthless pruning. Also name it Harold; clearly works.",
+        "ts": "1754882754.000192"
+      }
+
+
+
+      {
+        "ok": true,
+        "messages": [
+        {
+        "type": "message",
+        "user": "U0987JUHYJ1",
+        "text": "Good morning, #social! New week, same ☕ energy. What’s everyone up to? Tiny wins count. ✨",
+        "ts": "1754635800.000001"
+        },
+        {
+        "type": "message",
+        "user": "U0986HDDR6J",
+        "text": "Morning! Weekend recap: 14-mile trail run at Red Rocks, then meal-prepped quinoa bowls. If anyone wants a batch, I have extra.",
+        "ts": "1754635805.000002"
+        },
+        {
+        "type": "message",
+        "user": "U0989N7LPUJ",
+        "text": "Quinoa me, please. Also, I’m spinning up a low-lift coffee cupping this Friday afternoon. No slides, just vibes. Who’s in?",
+        "ts": "1754635811.000003"
+        },
+        {
+        "type": "message",
+        "user": "U098XKZFBHN",
+        "text": "I’m in. Can I bring a bag of Ethiopian beans and a totally unnecessary thermometer? Also… game night on Thursday? Co-op or competitive? I vote co-op so Kevin stops getting targeted first.",
+        "ts": "1754635816.000004"
+        },
+        {
+        "type": "message",
+        "user": "U098XKZKWJU",
+        "text": "Cupping + co-op sounds perfect. I’ll bring banana bread. Also, anyone interested in trying badminton at Bryant Park after work next week?",
+        "ts": "1754635821.000005"
+        },
+        {
+        "type": "message",
+        "user": "U0987SR18J1",
+        "text": "Checking in from Lisbon PTO. Sun, pasteis de nata, and a vow to not open code editors. Sending pics later if the custard survives.",
+        "ts": "1754635828.000006"
+        },
+        {
+        "type": "message",
+        "user": "U0A1MARK01",
+        "text": "Ana (Marketing) here! I’m 100% in for coffee cupping. I’ll also bring a few mock taglines for our fall campaign to test on real humans. Very scientific.",
+        "ts": "1754635834.000007"
+        },
+        {
+        "type": "message",
+        "user": "U0A1SALES02",
+        "text": "David from Sales sliding in. If there’s banana bread, there’s David. Also sneaker drop this weekend… anyone else camping out for the reissue?",
+        "ts": "1754635840.000008"
+        },
+        {
+        "type": "message",
+        "user": "U0A1FIN03",
+        "text": "Farah (Finance) joining. I bring tea and spreadsheets. Budget-friendly tip: I’ve got a template to track personal subscriptions if folks want to save on random trials.",
+        "ts": "1754635846.000009"
+        },
+        {
+        "type": "message",
+        "user": "U0A1HR04",
+        "text": "Hannah from People Ops here. Friendly reminder that open enrollment Q&A is next Wednesday, but more importantly… how’s interest for a watercolor lunch break?",
+        "ts": "1754635852.000010"
+        },
+        {
+        "type": "message",
+        "user": "U0A1OPS05",
+        "text": "Oscar (Ops). I can book a conference room Friday for the cupping if we overflow the kitchen. Also, I’ll bring paper cups and cleanup gear.",
+        "ts": "1754635859.000011"
+        },
+        {
+        "type": "message",
+        "user": "U0A1IT06",
+        "text": "Irina from IT. Two things: 1) Coffee, yes. 2) If you plug in any new kettles or hot plates, ping me first so we don’t trip the circuit like last time. We have surge protectors now. Progress.",
+        "ts": "1754635866.000012"
+        },
+        {
+        "type": "message",
+        "user": "U0A1DS07",
+        "text": "Li (Data Science). Happy to model optimal steep times. Kidding. Mostly. Also, a few of us are catching a jazz trio Friday night on the Lower East Side if anyone’s into piano trios.",
+        "ts": "1754635874.000013"
+        },
+        {
+        "type": "message",
+        "user": "U0A1DES08",
+        "text": "Nisha from Design. If we do coffee, can I set up a little sensory corner? Plants + soft light + a no-email rule for 20 minutes.",
+        "ts": "1754635882.000014"
+        },
+        {
+        "type": "message",
+        "user": "U0A1CS09",
+        "text": "Carla (Support) here! Friday coffee then a casual Mario Kart bracket on the Switch? Winner gets the ceremonial golden mug.",
+        "ts": "1754635889.000015"
+        },
+        {
+        "type": "message",
+        "user": "U0987JUHYJ1",
+        "text": "Love it. I’ll drop a calendar hold for Friday: ‘Cupping + tiny break from reality.’",
+        "ts": "1754635896.000016"
+        },
+        {
+        "type": "message",
+        "user": "U0986HDDR6J",
+        "text": "Since people are swapping tips: I’ve got a simple alpine training plan for new runners who want hills. No pressure, just pacing ideas.",
+        "ts": "1754635902.000017"
+        },
+        {
+        "type": "message",
+        "user": "U098XKZFBHN",
+        "text": "I volunteer as the slow pacer. Also: anyone want to do a musical matinee this weekend? Yes, I will sing quietly. Mostly.",
+        "ts": "1754635908.000018"
+        },
+        {
+        "type": "message",
+        "user": "U098XKZKWJU",
+        "text": "Hills + musicals is an unexpected combo, but I’m here for the range. Re badminton: I can bring two rackets and a stack of shuttles.",
+        "ts": "1754635915.000019"
+        },
+        {
+        "type": "message",
+        "user": "U0989N7LPUJ",
+        "text": "Mini plan: Thurs game night, Fri coffee cupping, Sat hills, Sun badminton. Look at that cross-functional wellness roadmap.",
+        "ts": "1754635921.000020"
+        },
+        {
+        "type": "message",
+        "user": "U0A1SALES02",
+        "text": "I can’t run hills, but I can cheer and bring oranges, soccer-parent style.",
+        "ts": "1754635928.000021"
+        },
+        {
+        "type": "message",
+        "user": "U0A1FIN03",
+        "text": "For anyone budgeting fitness: the city has a discounted rec pass this month. DM me; I’ll share the link and a quick breakdown of cost-per-visit.",
+        "ts": "1754635935.000022"
+        },
+        {
+        "type": "message",
+        "user": "U0A1HR04",
+        "text": "Love the energy. On culture notes: mentorship pairings are going live next week. If you want to be matched on non-work interests (music, hiking, watercolor), react here and I’ll take note.",
+        "ts": "1754635942.000023"
+        },
+        {
+        "type": "message",
+        "user": "U0A1DES08",
+        "text": "Reacted! Would love a mentor-muse for typography nerdery and film photography.",
+        "ts": "1754635949.000024"
+        },
+        {
+        "type": "message",
+        "user": "U0A1DS07",
+        "text": "Reacted for music. I’m practicing Bill Evans voicings lately; open to a casual office jam if there’s a keyboard around.",
+        "ts": "1754635956.000025"
+        },
+        {
+        "type": "message",
+        "user": "U0987SR18J1",
+        "text": "Mentorship from abroad: I can offer ‘How to travel with only a carry-on and still look presentable on Zoom.’",
+        "ts": "1754635963.000026"
+        },
+        {
+        "type": "message",
+        "user": "U0987JUHYJ1",
+        "text": "Company picnic idea: potluck with a ‘hometown favorite’ theme. I’ll start: arepas from my neighborhood spot.",
+        "ts": "1754635971.000027"
+        },
+        {
+        "type": "message",
+        "user": "U0986HDDR6J",
+        "text": "I’ll do roasted green chile mac and cheese. Not traditional, but very New Mexico.",
+        "ts": "1754635978.000028"
+        },
+        {
+        "type": "message",
+        "user": "U098XKZFBHN",
+        "text": "I’ll bring scallion pancakes. And if the weather holds, I’ll bring the tiny Bluetooth speaker and a dad-jokes playlist.",
+        "ts": "1754635985.000029"
+        },
+        {
+        "type": "message",
+        "user": "U098XKZKWJU",
+        "text": "Data-supported claim: dad jokes increase groans by 37% but morale by 12%. Happy to A/B test.",
+        "ts": "1754635992.000030"
+        },
+        {
+        "type": "message",
+        "user": "U0A1OPS05",
+        "text": "I can handle permits and park logistics. Also bringing sunscreen and a bike pump because I am who I am.",
+        "ts": "1754635998.000031"
+        },
+        {
+        "type": "message",
+        "user": "U0A1IT06",
+        "text": "Picnic security PSA: if we use a public Wi‑Fi, please avoid visiting internal dashboards. Hotspot if you must. I promise I’m fun at parties.",
+        "ts": "1754636005.000032"
+        },
+        {
+        "type": "message",
+        "user": "U0A1MARK01",
+        "text": "Fun and secure! I’ll bring a disposable camera for candid teammate shots. Zero AI enhancements, pure nostalgia.",
+        "ts": "1754636011.000033"
+        },
+        {
+        "type": "message",
+        "user": "U0A1CS09",
+        "text": "If anyone needs chill vibes before the picnic, I can run a Pokémon Unite lobby after hours. Low-stress team bonding, high probability of me yelling ‘gg’ a lot.",
+        "ts": "1754636018.000034"
+        },
+        {
+        "type": "message",
+        "user": "U0A1FIN03",
+        "text": "Since we’re sharing personal systems: here’s how I plan weekends to avoid burnout. 1) One anchor activity (run, museum, call family). 2) Two micro-joys (new tea, long walk). 3) One ‘nope’ (decline a plan guilt-free).",
+        "ts": "1754636026.000035"
+        },
+        {
+        "type": "message",
+        "user": "U0989N7LPUJ",
+        "text": "Adopting the ‘nope’ rule immediately. Also, for Friday’s cupping: I’ll post a poll for 2pm vs 3pm. Kitchen is better earlier, before the espresso machine sings its 4pm aria.",
+        "ts": "1754636033.000036"
+        },
+        {
+        "type": "message",
+        "user": "U0A1DES08",
+        "text": "While we’re vibing: if anyone wants a quick plant-cutting, I have pothos and philodendron babies. Easy to care for; joyful desk companions.",
+        "ts": "1754636040.000037"
+        },
+        {
+        "type": "message",
+        "user": "U0A1DS07",
+        "text": "Co-sign. Plants improve my debugging patience by anecdotally 15%.",
+        "ts": "1754636047.000038"
+        },
+        {
+        "type": "message",
+        "user": "U0A1SALES02",
+        "text": "Debugging patience? I need that for my CRM notes. Also, who’s got recs for a durable gym bag that doesn’t look like a duffel from 1998?",
+        "ts": "1754636053.000039"
+        },
+        {
+        "type": "message",
+        "user": "U098XKZFBHN",
+        "text": "Aer or Bellroy, depending on budget. If you want to test mine, I can bring an extra to the office.",
+        "ts": "1754636060.000040"
+        },
+        {
+        "type": "message",
+        "user": "U0987SR18J1",
+        "text": "Trip pic drop: sea cliffs and a dog named Ravioli who stole my heart and my snack. Uploading to #photos later.",
+        "ts": "1754636067.000041"
+        },
+        {
+        "type": "message",
+        "user": "U0986HDDR6J",
+        "text": "I’m free for a sunrise run Wednesday for anyone who wants a calm start. Meet at the river path at 6:15am. Promise easy pace.",
+        "ts": "1754636074.000042"
+        },
+        {
+        "type": "message",
+        "user": "U0A1HR04",
+        "text": "This channel is peak wholesome today. Reminder that our volunteer day sign-up closes Friday. Options include park cleanup, food pantry, and coding with middle-schoolers.",
+        "ts": "1754636080.000043"
+        },
+        {
+        "type": "message",
+        "user": "U0A1IT06",
+        "text": "If you pick coding with students, I have a starter exercise on password safety that’s actually fun. We turn it into a game with dice.",
+        "ts": "1754636087.000044"
+        },
+        {
+        "type": "message",
+        "user": "U0A1OPS05",
+        "text": "I’ll coordinate transport for the park crew. Helmets optional, reflective vests mandatory. Kidding. Kind of.",
+        "ts": "1754636094.000045"
+        },
+        {
+        "type": "message",
+        "user": "U0A1MARK01",
+        "text": "I’ll bring poster markers for the pantry team. We can make signs and also accidentally doodle new brand mascots.",
+        "ts": "1754636101.000046"
+        },
+        {
+        "type": "message",
+        "user": "U0987JUHYJ1",
+        "text": "Okay, social legends. I’ll summarize: Thurs game night, Fri coffee, Sat hills, Sun badminton, plus volunteer day next week. And potluck planning in flight. This channel is why Mondays are tolerable. 🎈",
+        "ts": "1754636108.000047"
+        },
+        {
+        "type": "message",
+        "user": "U0A1CS09",
+        "text": "Dropping a Mario Kart signup thread after lunch. Calling my kart ‘Golden Mug.’",
+        "ts": "1754636115.000048"
+        },
+        {
+        "type": "message",
+        "user": "U098XKZKWJU",
+        "text": "I’ll bring a scoreboard template. Low friction, high visibility. And yes, there will be graphs.",
+        "ts": "1754636122.000049"
+        },
+        {
+        "type": "message",
+        "user": "U0989N7LPUJ",
+        "text": "I’ll add the events to the #social channel topic so it doesn’t get lost in the scroll.",
+        "ts": "1754636129.000050"
+        },
+        {
+        "type": "message",
+        "user": "U0986HDDR6J",
+        "text": "Thanks, Jesse. I’ll bring extra water bottles for the hills crew and a quiet playlist if anyone wants to borrow my earbuds.",
+        "ts": "1754636136.000051"
+        },
+        {
+        "type": "message",
+        "user": "U0A1FIN03",
+        "text": "Final finance PSA for today: if you’re traveling soon, check your credit card’s lounge/meal credits. Free oatmeal tastes better. Scientific fact.",
+        "ts": "1754636143.000052"
+        },
+        {
+        "type": "message",
+        "user": "U0987SR18J1",
+        "text": "Confirmed. Free oatmeal on the road is 20% tastier. Stay wholesome, team. Catch you after sunset here.",
+        "ts": "1754636150.000053"
+        }
+        ],
+        "has_more": true,
+        "pin_count": 0,
+        "response_metadata": {
+        "next_cursor": "bmV4dF90czoxNzU0NjM2MTYwLjAwMDU1Mw"
+        }
+        }
+
+
+        {
+            "type": "message",
+            "user": "U0987JUHYJ1",
+            "text": "Threading a new topic: Lunch & Learn ideas for next month? We can keep it social but useful. I’ll do a ‘Jazz + Creativity’ session if folks are game. 🎷",
+            "ts": "1754635866.000016"
+          },
+          {
+            "type": "message",
+            "user": "U0986HDDR6J",
+            "text": "I’ll volunteer ‘Trail Running for Desk People’—how to start without ruining your knees. Promise it’s friendly to beginners. 🦵✨",
+            "ts": "1754635870.000017"
+          },
+          {
+            "type": "message",
+            "user": "U098XKZFBHN",
+            "text": "I can do ‘Climbing as Problem-Solving’ with a beginner’s home-hangboard demo (and safety caveats). Also, tea tasting after?",
+            "ts": "1754635874.000018"
+          },
+          {
+            "type": "message",
+            "user": "U0A3PR1YA",
+            "text": "I’ll add ‘Knitting Patterns as Algorithms’—how recursion shows up in lace. Bonus: calming for sprint-week nerves.",
+            "ts": "1754635879.000019"
+          },
+          {
+            "type": "message",
+            "user": "U0A6CHLK",
+            "text": "Design session: ‘Color Theory for Non-Designers’ with live palette building using your phone photos. Bring your favorite vacation pic. 🎨",
+            "ts": "1754635883.000020"
+          },
+          {
+            "type": "message",
+            "user": "U0A2MS1LV",
+            "text": "Infra track: ‘Self-Hosting 101’—why I run a personal homelab and how it helps me sleep at night (sometimes).",
+            "ts": "1754635888.000021"
+          },
+          {
+            "type": "message",
+            "user": "U0989N7LPUJ",
+            "text": "I’ll compile these into a sign-up board. If we overfill, we can stagger across two Fridays.",
+            "ts": "1754635893.000022"
+          },
+          
+          {
+            "type": "message",
+            "user": "U0A8MEIL",
+            "text": "Social poll: karaoke or board-game night for Friday? I have a cooperative game that turns coworkers into best friends or sworn rivals in 45 minutes. 😇",
+            "ts": "1754635898.000023"
+          },
+          {
+            "type": "message",
+            "user": "U098XKZKWJU",
+            "text": "Karaoke. I have a carefully curated 00s playlist and a tragic falsetto. Will bring disposable cameras for candids.",
+            "ts": "1754635903.000024"
+          },
+          {
+            "type": "message",
+            "user": "U0987SR18J1",
+            "text": "Board games for me, but I’ll karaoke observe. Also, beach photo dump later—consider it color palette inspo for Chloe’s session.",
+            "ts": "1754635908.000025"
+          },
+          {
+            "type": "message",
+            "user": "U0A7OMHD",
+            "text": "Finance supports whatever results in receipts that don’t look like an indie concert tour. Maybe both? Start with board games, end with karaoke.",
+            "ts": "1754635913.000026"
+          },
+          {
+            "type": "message",
+            "user": "U0A4TOMN",
+            "text": "As a Sales professional and certified hype person: karaoke. We close out strong. 🎤",
+            "ts": "1754635918.000027"
+          },
+          
+          {
+            "type": "message",
+            "user": "U0986HDDR6J",
+            "text": "Random Q: anyone else into pottery? I started hand-building mugs and I’m accepting constructive teasing for lopsided handles.",
+            "ts": "1754635924.000028"
+          },
+          {
+            "type": "message",
+            "user": "U0A5ELNG",
+            "text": "I’m in a ceramics co-op! Tip: score and slip way more than you think, then walk away for 10 minutes before attaching the handle.",
+            "ts": "1754635929.000029"
+          },
+          {
+            "type": "message",
+            "user": "U0A1PA1EL",
+            "text": "Also: post-glaze reveals are best shared in #social. Mug roast + praise circle? Low-stakes craft show-and-tell.",
+            "ts": "1754635934.000030"
+          },
+          
+          {
+            "type": "message",
+            "user": "U098XKZFBHN",
+            "text": "Anyone training for the fall half marathon? I’m doing easy base miles and finger strength (climbing). Open to forming a weekday run club.",
+            "ts": "1754635939.000031"
+          },
+          {
+            "type": "message",
+            "user": "U0A2MS1LV",
+            "text": "I’m in from the DevOps corner—morning runs along the river are my debugging ritual. We can share routes if folks travel.",
+            "ts": "1754635944.000032"
+          },
+          {
+            "type": "message",
+            "user": "U0A7OMHD",
+            "text": "Cyclist here. I’ll join on rest days. If anyone wants a budget-friendly bike fit tip list, I’ve got notes.",
+            "ts": "1754635949.000033"
+          },
+          {
+            "type": "message",
+            "user": "U098XKZKWJU",
+            "text": "I’ll document run club moments with film. It forgives mid-sweat artistry.",
+            "ts": "1754635954.000034"
+          },
+          
+          {
+            "type": "message",
+            "user": "U0A9LEOR",
+            "text": "Privacy PSA before Friday: if we share photos publicly, ensure folks opt-in. I’ll pin a short consent blurb so we keep it friendly and compliant.",
+            "ts": "1754635959.000035"
+          },
+          
+          {
+            "type": "message",
+            "user": "U0A6CHLK",
+            "text": "New thread: pet pics. I’ll start—Bean, my cat, has decided my Figma hotspot is her throne. Designers can confirm cats love auto-layout.",
+            "ts": "1754635964.000036"
+          },
+          {
+            "type": "message",
+            "user": "U0A8MEIL",
+            "text": "Meet Mochi (cat), who tries to paw at my headset when customers say something funny. 10/10 colleague.",
+            "ts": "1754635969.000037"
+          },
+          {
+            "type": "message",
+            "user": "U0989N7LPUJ",
+            "text": "I will not introduce my dog here because he negotiated his own snack budget last week by staring at me during a Zoom. Unions forming.",
+            "ts": "1754635974.000038"
+          },
+          
+          {
+            "type": "message",
+            "user": "U0987JUHYJ1",
+            "text": "Social-professional crossover idea: ‘Lightning Demos: Tools We Secretly Love.’ I’ll show my kitchen-timer method for deep work.",
+            "ts": "1754635980.000039"
+          },
+          {
+            "type": "message",
+            "user": "U0A5ELNG",
+            "text": "I’ll share my sticky-note sprint planning (PM edition). It’s chaotic and yet… crisp.",
+            "ts": "1754635985.000040"
+          },
+          {
+            "type": "message",
+            "user": "U098XKZFBHN",
+            "text": "My share: a chess tactic trainer I use to reset my brain between experiments. It’s weirdly effective for switching contexts.",
+            "ts": "1754635990.000041"
+          },
+          {
+            "type": "message",
+            "user": "U0986HDDR6J",
+            "text": "I’ll show off my trail maps app and how I plan weekend runs around bakery stops. Priorities.",
+            "ts": "1754635995.000042"
+          },
+          {
+            "type": "message",
+            "user": "U0A3PR1YA",
+            "text": "Data: Obsidian vault with a knitting pattern index. Yes, there are tags for complexity and yarn weight. Fight me.",
+            "ts": "1754636000.000043"
+          },
+          
+          {
+            "type": "message",
+            "user": "U0A4TOMN",
+            "text": "Anyone up for a lunchtime pho crawl next week? I’m mapping the best broth-to-noodle ratios within a 10-block radius.",
+            "ts": "1754636005.000044"
+          },
+          {
+            "type": "message",
+            "user": "U0A2MS1LV",
+            "text": "Add espresso crawl to that and we have a proper tour. I’ll bring a refractometer. Kidding. Maybe.",
+            "ts": "1754636010.000045"
+          },
+          {
+            "type": "message",
+            "user": "U0A7OMHD",
+            "text": "Finance approves pho; refractometer expense will be… debated.",
+            "ts": "1754636015.000046"
+          },
+          
+          {
+            "type": "message",
+            "user": "U0987SR18J1",
+            "text": "Vacation photo dump: sunrise over the bay, turquoise water, and me losing to a 7-year-old at beach chess. Consider this my humble request for rematch night.",
+            "ts": "1754636020.000047"
+          },
+          {
+            "type": "message",
+            "user": "U098XKZFBHN",
+            "text": "Accepted. Post-vacation chess night with tea and cookies. And I’ll bring a beginner-friendly puzzle set so it’s fun for all levels.",
+            "ts": "1754636025.000048"
+          },
+          {
+            "type": "message",
+            "user": "U098XKZKWJU",
+            "text": "I’ll shoot the event. Candid moments, low shutter speed, high nostalgia.",
+            "ts": "1754636030.000049"
+          },
+          
+          {
+            "type": "message",
+            "user": "U0A1PA1EL",
+            "text": "Quick wellness plug: next Thursday is a ‘no meeting’ afternoon across teams. Use it for a walk, reading, or catching up on something that feeds your brain.",
+            "ts": "1754636035.000050"
+          },
+          {
+            "type": "message",
+            "user": "U0989N7LPUJ",
+            "text": "Reminding folks: volunteer day sign-up sheet is live. We’ve got slots for food bank logistics, resume workshop, and school supply pack-out. Ping me for questions.",
+            "ts": "1754636040.000051"
+          },
+          {
+            "type": "message",
+            "user": "U0A9LEOR",
+            "text": "I’ll join the resume workshop. Also, if anyone wants their LinkedIn privacy settings reviewed, I can do a quick pass. Old habits die hard.",
+            "ts": "1754636045.000052"
+          },
+          {
+            "type": "message",
+            "user": "U0A6CHLK",
+            "text": "I’ll design name tags and a cheerful signage set for volunteer day. I have a brand palette ready. ✨",
+            "ts": "1754636050.000053"
+          },
+          
+          {
+            "type": "message",
+            "user": "U0986HDDR6J",
+            "text": "Weekend plan flex: long run Saturday, then pottery studio. If anyone wants to try throwing for the first time, come by—I’ll trade tips for coffee.",
+            "ts": "1754636055.000054"
+          },
+          {
+            "type": "message",
+            "user": "U0A2MS1LV",
+            "text": "I’ll bring espresso beans. Deal.",
+            "ts": "1754636060.000055"
+          },
+          {
+            "type": "message",
+            "user": "U0A8MEIL",
+            "text": "I’ll bring cinnamon rolls. It’s a carbs and crafts meetup now.",
+            "ts": "1754636065.000056"
+          },
+          
+          {
+            "type": "message",
+            "user": "U0987JUHYJ1",
+            "text": "This channel is exactly what it’s meant to be—light, fun, and connecting across teams. Keep the ideas coming. I’ll pin Jesse’s volunteer link and Aisha’s book club note.",
+            "ts": "1754636070.000057"
+          },
+          {
+            "type": "message",
+            "user": "U0A5ELNG",
+            "text": "Last one from me today: anyone else secretly into travel points optimization? I’ve got a Notion page I’ll share if there’s interest.",
+            "ts": "1754636075.000058"
+          },
+          {
+            "type": "message",
+            "user": "U0A7OMHD",
+            "text": "Finance officially endorses maximizing ethical points. Teach me your ways.",
+            "ts": "1754636080.000059"
+          },
+          {
+            "type": "message",
+            "user": "U0987SR18J1",
+            "text": "I’ll test those strategies live from the airport tomorrow. If it gets me a lounge shower, I’m a believer.",
+            "ts": "1754636085.000060"
+          },
+          {
+            "type": "message",
+            "user": "U098XKZKWJU",
+            "text": "Close-up of Pablo’s ‘sunshine’ sourdough when it’s done, please. I need a new subject for depth-of-field practice.",
+            "ts": "1754636090.000061"
+          },
+          {
+            "type": "message",
+            "user": "U0987JUHYJ1",
+            "text": "Deal. If it fails, I’ll photograph it anyway and call it ‘abstract carb study.’",
+            "ts": "1754636095.000062"
+          },
+          
+          {
+            "type": "message",
+            "user": "U098XKZFBHN",
+            "text": "PS: If anyone wants to climb after karaoke (questionable sequencing, I know), I’ve got two extra harnesses and a beginner route list.",
+            "ts": "1754636100.000063"
+          },
+          {
+            "type": "message",
+            "user": "U0A1PA1EL",
+            "text": "I’ll cheer from the ground and hand out electrolyte gummies like a supportive aunt.",
+            "ts": "1754636105.000064"
+          },
+          {
+            "type": "message",
+            "user": "U0989N7LPUJ",
+            "text": "I’ll coordinate rides so we don’t end the evening with a spreadsheet of lost humans. Comment with your neighborhood and I’ll group carpools.",
+            "ts": "1754636110.000065"
+          },
+          {
+            "type": "message",
+            "user": "U0A3PR1YA",
+            "text": "Neighborhood: Capitol Hill. Also, if anyone wants a beginner knitting kit, I have extra needles and wool from my last project.",
+            "ts": "1754636115.000066"
+          },
+          {
+            "type": "message",
+            "user": "U0A6CHLK",
+            "text": "Adding this to the shared social spreadsheet: we’re basically running a mini community center and I love it.",
+            "ts": "1754636120.000067"
+          }
+
+
+        
+
+
+
+
+
+
+
+    
